@@ -3,4 +3,4 @@ Technology sharing
 
 ****
 
-* [Yeoman](./yeoman.md)
+* [Yeoman](./src/yeoman.md)
