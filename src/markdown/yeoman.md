@@ -49,9 +49,19 @@ ProjectName/
 
 > The web's scaffolding tool for modern webapps!
 
+#### Yeoman用到的tool?
+
+![yeoman](../../assets/images/yeoman/yeoman.jpg)
+
+* the scaffolding tool ([Yo](http://yeoman.io/));
+* the build tool ([Gulp](https://gulpjs.com/), [Grunt](https://gruntjs.com/));
+* the package manager ([Npm](https://www.npmjs.com/), [Bower](https://bower.io/)).
+
 ## 为什么有Yeoman
 
 这里就得提一下前端自动化工具，前端集成解决方案
+
+> 为什么需要自动化工具：减少压缩，编译，单元测试，代码校验，重复且无业务关联的工作
 
 #### 什么是前端集成解决方案？
 > * 草根派：解决前端工程的根本问题
@@ -71,14 +81,20 @@ ProjectName/
 * spirit (alloyteam)
 * ...
 
-> 在web项目立项阶段，使用yeoman来生成项目的文件，代码结构自动	将最佳实践，和工具整合进来，大大加速和方便了我们后续的开发
+> 在web项目立项阶段，使用yeoman来生成项目的文件，代码结构，yeoman自动将最佳实践和工具整合进来，大大加速和方便了我们后续的开发
 
-## 安装，使用Yeoman
+## 安装，Yeoman
 ```
 $ npm install -g yo
 ```
+&
+```
+$ npm install -g bower
+$ npm install -g grunt-cli gulp-cli
+```
 
-## Generator又是什么? 为什么要有他?怎么使用?
+
+## Generator又是什么? 为什么要有他? 怎么使用?
 
 Yeoman by itself doesn't make any decisions. Every decision is made by generators which are basically plugins in the Yeoman environment.
 
@@ -88,13 +104,7 @@ $ npm install -g generator-webapp
 $ yo webapp
 ```
 
-## Yeoman用到的tool?
 
-![yeoman](../../assets/images/yeoman/yeoman.jpg)
-
-* the scaffolding tool (yo)
-* the build tool (Gulp, Grunt etc)
-* the package manager (like npm and Bower).
 
 
 
