@@ -96,17 +96,26 @@ $ npm install -g grunt-cli gulp-cli
 
 ## Generator又是什么? 为什么要有他? 怎么使用?
 
-Yeoman by itself doesn't make any decisions. Every decision is made by generators which are basically plugins in the Yeoman environment.
+> yeoman是一个脚手架生成工具。
+  yeoman generator则是yeoman的精髓所在。
+  yeoman就是一个工具外壳，它定制了如何调用generator，给generator提供了运行环境。yeoman generator则是解耦出来的核心部分，负责完成一个脚手架应该做的事。
+  线上已经有很多generator，可以满足我们一大波需求。不过要做到真正灵活，完全符合自己的需求、业务中的需要就要自己自定义generator了。
 
+安装使用
 ```
-$ npm install -g yo
 $ npm install -g generator-webapp
 $ yo webapp
 ```
 
+## 怎样[创建Generator](http://yeoman.io/authoring/index.html)?
 
+> yeoman的强大之处在于它提供了一套非常强大的编写自定义generator的API，而且上手非常容易。只要按照特定的约束，很快就可以定制一套自己的generator.
 
+* [yeoman-generator 入门教程](https://segmentfault.com/a/1190000005827971#articleHeader2)
 
+---
+## 合伙买个法拉利可好
+![WX](../../assets/images/wx.jpg)
 
 
 
