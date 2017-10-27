@@ -115,7 +115,7 @@ $ yo webapp
 
 ---
 ## 合伙买个法拉利可好
-![WX](../../assets/images/wx.jpg)
+<img src="../../assets/images/wx.jpg" height="300">
 
 
 
