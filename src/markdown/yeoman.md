@@ -51,7 +51,7 @@ ProjectName/
 
 #### Yeoman用到的tool?
 
-![yeoman](../../assets/images/yeoman/yeoman.jpg)
+<img src="../../assets/images/yeoman/yeoman.jpg" height="400">
 
 * the scaffolding tool ([Yo](http://yeoman.io/));
 * the build tool ([Gulp](https://gulpjs.com/), [Grunt](https://gruntjs.com/));
