@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
+title: Koo`s share!
+subtitle: Technology sharing
+description: my life is my life; to be or not to be.
+author: davidkoojohn
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://davidkoojohn.github.io/share/
+root: /share/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
