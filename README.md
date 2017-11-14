@@ -65,6 +65,13 @@ $ jekyll serve --watch
 └── index.html
 ```
 
+```
+|-- _drafts/      #　草稿
+|   |-- a-draft-post.md
+# pre-viws
+$ jekyll serve --drafts
+```
+
 
 
   
