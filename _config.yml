@@ -7,10 +7,13 @@ url: ""
 twitter_username: davidkoojohn
 github_username:  davidkoojohn
 
+timezone: Asia/Chungking
+encoding: UTF-8
+port:        7777
+
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
 
 
