@@ -27,6 +27,8 @@ $ jekyll serve
 $ jekyll serve --drafts
 ```
 
+> Ps : Used [NexT](http://theme-next.simpleyyt.com/).
+
 
 
   
