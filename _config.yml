@@ -5,8 +5,8 @@
 
 # Site
 title: Koo`s share
-subtitle:
-description:
+subtitle: to be or not to be.
+description: 我梦寐以求是真爱和自由．
 author: John Kuo
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: ./assets/images/me.jpg
 
 
 # Table Of Contents in the Sidebar
