@@ -2,7 +2,7 @@
 
 > Technology sharing
 -----
-* install jekyll
+* install [jekyll](http://jekyll.com.cn/)
 ```
 $ gem install jekyll
 ```
