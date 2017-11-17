@@ -543,8 +543,9 @@ plugins:
   - algoliasearch-jekyll
 
 algolia:
-  application_id: 2G8ZYER0Y1
-  index_name: koo-share
+  applicationID: 2G8ZYER0Y1
+  indexName: koo-share
+  apiKey: fd87b68ffc0450f96e13ebf5638f4e6d
 
 
 # Algolia Search
