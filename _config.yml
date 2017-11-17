@@ -538,9 +538,18 @@ calendar:
   singleEvents: true
   maxResults: 250
 
+# plugins
+plugins:
+  - algoliasearch-jekyll
+
+algolia:
+  application_id: 2G8ZYER0Y1
+  index_name: koo-share
+
+
 # Algolia Search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 10
   labels:
