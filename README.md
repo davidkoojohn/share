@@ -9,7 +9,10 @@ $ gem install jekyll
 * dev
 ```
 $ git clone https://github.com/davidkoojohn/share.git
+# then run:
 $ jekyll serve
+# Or
+$ bundle exec jekyll server
 ```
 * Article path
 ```ruby
