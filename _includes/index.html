@@ -2,7 +2,7 @@
 {% if site.paginate > 0 %}{% assign posts = paginator.posts %}{% endif %}
 
 <section id="posts" class="posts-expand">
-  {% for post in posts %}
+  {% for post in posts reversed %}
     {% assign is_index = true %}
     {% include _macro/post.html %}
   {% endfor %}
