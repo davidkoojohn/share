@@ -2,7 +2,7 @@
 title: Front End ToDoList
 date: 2017-11-21
 categories: [developer]
-tags: [List]
+tags: [list]
 excerpt_separator: <!--more-->
 ---
 
