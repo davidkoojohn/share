@@ -6,7 +6,7 @@ tags: [list]
 excerpt_separator: <!--more-->
 ---
 
-## 一个合格的前端开发需要那些知识储备？ 
+<h2 style="text-align: center">一个合格的前端开发需要那些知识储备？</h2>
 
 <!--more-->
 
