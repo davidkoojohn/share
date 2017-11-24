@@ -65,8 +65,8 @@ excerpt_separator: <!--more-->
 
 ---
 
-*出处：代码湾*
-*链接：http://codebay.cn/post/6163.html*
+出处：*代码湾*<br/>
+链接：*http://codebay.cn/post/6163.html*
 
 
 
