@@ -17,20 +17,20 @@ excerpt_separator: <!--more-->
 > 这是一款根据 Javascript 文件中注释信息，生成 JavaScript 应用、库、模块的 API 文档的工具。你可以使用它记录如：命名空间、类、方法、方法参数等。该项目还衍生出了许多模板和其他工具来帮助生成和自定义文档，比如：
 
 #### 模板
-    * jaguarjs-jsdoc
-    * DocStrap (example)
-    * jsdoc3Template (example)
-    * minami
-    * docdash (example)
-    * tui-jsdoc-template (example)
+* jaguarjs-jsdoc
+* DocStrap (example)
+* jsdoc3Template (example)
+* minami
+* docdash (example)
+* tui-jsdoc-template (example)
 
 #### 构建工具
-    * JSDoc Grunt plugin
-    * JSDoc Gulp plugin
+* JSDoc Grunt plugin
+* JSDoc Gulp plugin
 
 #### 其它工具
-    * jsdoc-to-markdown
-    * Integrating GitBook with JSDoc
+* jsdoc-to-markdown
+* Integrating GitBook with JSDoc
 
 ### ESDoc
 

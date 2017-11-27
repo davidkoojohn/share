@@ -47,3 +47,8 @@ published: false
 <acronym title="National Basketball Association">NBA</acronym>
 <abbr title="Avenue">AVE</abbr>
 ```
+<dl><dt>Definition List Title</dt><dd>This is a definition list division.</dd></dl>
+<sup>superscript</sup>
+<sub>subscript</sub>
+<acronym title="National Basketball Association">NBA</acronym>
+<abbr title="Avenue">AVE</abbr>
