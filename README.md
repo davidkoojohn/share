@@ -15,7 +15,7 @@ $ jekyll serve
 $ bundle exec jekyll server
 ```
 * Article path
-```ruby
+```
 .
 ├── _config.yml   # 配置
 |
