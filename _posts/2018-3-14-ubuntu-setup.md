@@ -12,53 +12,42 @@ excerpt_separator: <!--more-->
 
 ## chrome
 
-    1. Google 搜索提供 Chrome 的下载源, 然后将下载源加入到系统的源列表。
-
-    > 本人推荐也是一直使用的一个源, 如下:
-
     ```
+    // 1. Google 搜索提供 Chrome 的下载源, 然后将下载源加入到系统的源列表。
+
+    // 本人推荐也是一直使用的一个源, 如下:
     $ sudo wget http://www.linuxidc.com/files/repo/google-chrome.list -P /etc/apt/sources.list.d/
-    ```
 
-    2. 导入谷歌软件的公钥，用于下面步骤中对下载软件进行验证。如果顺利的话，命令将返回“OK”。
+    // 2. 导入谷歌软件的公钥，用于下面步骤中对下载软件进行验证。如果顺利的话，命令将返回“OK”。
 
-    ```
     $ wget -q -O - https://dl.google.com/linux/linux_signing_key.pub  | sudo apt-key add -
-    ```
 
-    3. 对当前系统的可用更新列表进行更新。
+    // 3. 对当前系统的可用更新列表进行更新。
 
-    ```
     $ sudo apt-get update
-    ```
 
-    4. 执行对谷歌 Chrome 浏览器（稳定版）的安装。
+    // 4. 执行对谷歌 Chrome 浏览器（稳定版）的安装。
 
-    ```
     $ sudo apt-get install google-chrome-stable
-    ```
 
-    5. 锁定到启动器
+    // 5. 锁定到启动器
 
-    ```
     $ /usr/bin/google-chrome-stable
     ```
 
 ## git
 
-    1. 安装 git
-
     ```
+    // 1. 安装 git
+
     $ sudo apt-get install git
     // 如果失败用一下方法安装
 
     $ sudo apt-get install libcurl4-gnutls-dev libexpat1-dev gettext \ libz-dev libssl-dev
     // Git 的工作需要调用 curl，zlib，openssl，expat，libiconv 等库的代码，所以需要先安装这些依赖工具。
-    ```
 
-    2. 配置
+    // 2. 配置
 
-    ```
     $ git config --global user.name 'your name'
     $ git config --global user.email 'your-mail@xxx.com'
     ```
