@@ -5,22 +5,23 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/share/"
 url: ""
 author:
-  name: Kuo
+  name: John Kuo
   twitter: davidkoojohn
-  picture:
+  picture: //assets/davidkoojohn.jpg
 twitter_username:
 github_username:
-logo: "/assets/davidkoojohn.jpg"
+logo: /assets/davidkoojohn.jpg
 twitter_username: davidkoojohn
 github_username:  davidkoojohn
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
 
+# https://github.com/ashemenev/ashemenev.github.io/blob/master/index.html
 paginate: 5  # amount of posts to show per page
 paginate_path: /page:num/
 
