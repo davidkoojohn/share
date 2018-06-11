@@ -21,3 +21,5 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
 
+paginate: 5  # amount of posts to show per page
+paginate_path: /page:num/
