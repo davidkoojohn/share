@@ -1,7 +1,5 @@
 # [share](https://davidkoojohn.github.io/share/)
 
--------
-
 > Personal blog of John Kuo, Technology sharing
 
 *The website targets the latest version of Chrome, Safari, and Firefox.*
