@@ -2,8 +2,9 @@ title: John Kuo
 email: davidkoojohn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is davidkoojohn blog.
-baseurl: "/share/"
-url: ""
+baseurl: /share/
+url:
+permalink: /:title
 author:
   name: John Kuo
   twitter: davidkoojohn
@@ -22,7 +23,7 @@ plugins:
   - jekyll-feed
 
 # https://github.com/ashemenev/ashemenev.github.io/blob/master/index.html
-paginate: 5  # amount of posts to show per page
+paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 
 search: true

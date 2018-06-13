@@ -29,5 +29,7 @@ t:
   present: "Present"
 
 navigation_pages:
+  - posts.md
+  - categories.md
+  - tags.md
   - about.md
-  - cv.md
