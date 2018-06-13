@@ -9,7 +9,7 @@
 > On PC screenshots
 
 <a href="https://davidkoojohn.github.io/share/">
-	<img src="assets/images/screenshot.jpg" width="700">
+	<img src="assets/images/screenshot.png" width="700">
 </a>
 
 > On Mobile screenshots
