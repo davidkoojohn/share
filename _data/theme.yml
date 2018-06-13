@@ -32,4 +32,5 @@ navigation_pages:
   - posts.md
   - categories.md
   - tags.md
+  - links.md
   - about.md
