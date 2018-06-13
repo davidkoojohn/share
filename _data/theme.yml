@@ -1,4 +1,10 @@
-skin: default
+skin: night
+#default
+#night
+#plum
+#sea
+#soft
+#steel
 google_fonts:
   - name: "Fira Sans"
     weights: "400,400i,600,600i"
