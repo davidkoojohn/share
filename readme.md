@@ -6,21 +6,22 @@
 
 > On PC screenshots
 
-<a href="https://davidkoojohn.github.io/share/">
+<a href="https://davidkoojohn.github.io/share/" style="text-algin: center">
 	<img src="assets/images/screenshot.png" width="700">
 </a>
 
 > On Mobile screenshots
 
-<a href="https://davidkoojohn.github.io">
-	<img src="assets/images/screenshot-mobile.png" width="300">
+<a href="https://davidkoojohn.github.io/share/" style="text-algin: center">
+	<img src="assets/images/screenshot-mobile.png" width="375">
 </a>
 
-* install [jekyll](https://jekyllrb.com/)
+### install [jekyll](https://jekyllrb.com/)
+
 ```
 $ gem install jekyll
 ```
-* dev
+### dev
 ```
 $ git clone https://github.com/davidkoojohn/share.git
 # then run:
@@ -28,7 +29,7 @@ $ jekyll serve
 # Or
 $ bundle exec jekyll server
 ```
-* Article path
+### Article path
 ```
 .
 ├── _config.yml   # 配置
