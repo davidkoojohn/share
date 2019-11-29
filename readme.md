@@ -33,6 +33,7 @@ $ bundle exec jekyll server
 ```
 .
 ├── _config.yml   # 配置
+|   └── *.md
 ├── _posts        # 文章
 ├── _drafts       # 草稿
 |   ├── *.md
