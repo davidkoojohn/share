@@ -1,6 +1,6 @@
-source "https://rubygems.org"
+source "https://gems.ruby-china.com"
 
-gem "jekyll", "~> 3.7.3"
+gem "jekyll", "~> 3.7"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
